@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imx-passport/static/css/main.680ba506.css",
+    "main.js": "/imx-passport/static/js/main.6fcb30a5.js",
+    "static/js/453.5186004d.chunk.js": "/imx-passport/static/js/453.5186004d.chunk.js",
+    "static/media/index.cjs": "/imx-passport/static/media/index.61e57bb6b4fd6fcd0938.cjs",
+    "index.html": "/imx-passport/index.html",
+    "main.680ba506.css.map": "/imx-passport/static/css/main.680ba506.css.map",
+    "main.6fcb30a5.js.map": "/imx-passport/static/js/main.6fcb30a5.js.map",
+    "453.5186004d.chunk.js.map": "/imx-passport/static/js/453.5186004d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.680ba506.css",
+    "static/js/main.6fcb30a5.js"
+  ]
+}
